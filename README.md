@@ -1,4 +1,4 @@
-# FanCode API Automation - Cucumber Setup
+# API Automation - Cucumber Setup
 
 This project demonstrates how to set up and run **Cucumber** tests with **Maven** for API automation.
 
